@@ -14,7 +14,7 @@ I am a student of Applied Computer Science at Wrocław University of Science and
 ## ⚡ News
 - I’m currently learning SpringBoot and Angular.
 - I'm working on a study project in international team.
-- I'm developing my Git skills.
+- I'm developing my Git skills by working on many projects.
 
 ## 📫 How to reach me
 <a href="mailto:marti.grzegorczyk@gmail.com"><img src="https://img.shields.io/badge/marti.grzegorczyk@gmail.com-0C9435?style=for-the-badge&logo=gmail&logoColor=white" /></a>
